@@ -3,6 +3,8 @@ Project Overview
 
 This project focuses on analyzing the sales data of a coffee shop using Power BI. The analysis provides actionable insights into sales trends, customer behavior, and product performance. By visualizing key performance indicators (KPIs) and creating interactive dashboards, this project aims to empower decision-making for improved business outcomes.
 
+![Final_Report](https://github.com/user-attachments/assets/e5185de1-b16d-4f45-9b80-bf0092012e82)
+
 
 
 Problem Statement
